@@ -7,7 +7,7 @@
 
 ## Prerequisite to run the code in Milestone 3
   - You must have Java Installed on your Machine to compile the code
-  - You must always keep "sqlite3.exe" file in the "Milestone 3" Folder
+  - You must always keep "sqlite3.exe" file in the "Milestone 3" Folder OR have sqlite3 installed on your machine
   - You must always keep "sqlite-jdbc-3.20.1.jar" file in the "Milestone 3" Folder
   - You must have the "Combat.csv", "Customers.csv" & "Items.csv" files to populate the Database (Also you can change the contents of the files to suit your case)
 
