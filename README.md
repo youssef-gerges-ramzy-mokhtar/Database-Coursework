@@ -15,5 +15,5 @@
   - Clone this repo into your local machine
   - Go to the "Milestone 3" Folder
   - Based on the Operating System you are using use the appropriate command below:
-    . Windows: java -classpath ".;sqlite-jdbc-3.20.1.jar" DatabaseLibrary.java
-    . Linux: java -classpath ".:sqlite-jdbc-3.20.1.jar" DatabaseLibrary.java
+    - Windows: java -classpath ".;sqlite-jdbc-3.20.1.jar" DatabaseLibrary.java
+    - Linux: java -classpath ".:sqlite-jdbc-3.20.1.jar" DatabaseLibrary.java
